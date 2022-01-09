@@ -91,7 +91,7 @@ p {
 /* Testimonials Section */
 
 #testimonials {
-    padding: 7% 15%;
+    
     text-align: center;
     background-color: #ff4c68;
     color: #fff;
@@ -114,4 +114,8 @@ p {
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
